@@ -1,0 +1,115 @@
+    1  dir
+    2  #!/bin/bash
+    3  clear
+    4  echo -n "dame un numero: "
+    5  read n1
+    6  echo -n "dame otro numero: "
+    7  read n2
+    8  suma=`expr $n1 + $n2
+    9  #!/bin/bash
+   10  clear
+   11  echo -n "dame un numero: "
+   12  read n1
+   13  echo -n "dame otro numero: "
+   14  read n2
+   15  suma=`expr $n1 + $n2
+   16  /c/Users/pc/Desktop/suma.sh
+   17  /c/Users/pc/Desktop/suma.sh
+   18  git init
+   19  git add
+   20  git add .
+   21  git commit -m "instalacion de host y configuracion de apache2"
+   22  git add remote add origin https://github.com/ironsol1976/virtualhostdeapache.git
+   23  git push -u origin main
+   24  git remote add origin https://github.com/ironsol1976/virtualhostdeapache.git
+   25  git branch -M main
+   26  git push -u origin main
+   27  history
+   28  history ˃ datosapache2.docx
+   29  history ˃ datosapache2.txt
+   30  ls
+   31  history ˃ datosapache2.txt
+   32  history
+   33  history ˃˃ datosapache2.txt
+   34  ls
+   35  history > backup_historial
+   36  ls
+   37  history > backup_historial.docx
+   38  #!/bin/bash
+   39  clear
+   40  while :; do echo " Escoja una opcion "; echo "1. Usuario conectados?"; echo "2. Consumo de recursos"; echo "3. Servicios funcionando?"; echo "4. Salir"; echo -n "Seleccione una opcion [1 - 4]"; read opcion; case $opcion in 1) echo "Estan conectados:"; who;; 2) echo "Ejecutando htop"; htop;; 3) lsof -n -i -P | grep '*;;
+   41  4) echo "Fin";
+   42  exit 1;;
+   43  *) echo "$opc es una opcion invalida?";
+   44  echo "Presiona una tecla para continuar...";
+   45  read foo;;
+   46  done
+   47  #!/bin/bash
+   48  clear
+   49  while :; do echo " Escoja una opcion "; echo "1. Usuario conectados?"; echo "2. Consumo de recursos"; echo "3. Servicios funcionando?"; echo "4. Salir"; echo -n "Seleccione una opcion [1 - 4]"; read opcion; case $opcion in 1) echo "Estan conectados:"; who;; 2) echo "Ejecutando htop"; htop;; 3) lsof -n -i -P | grep '*;;
+   50  4) echo "Fin";
+   51  exit 1;;
+   52  *) echo "$opc es una opcion invalida?";
+   53  echo "Presiona una tecla para continuar...";
+   54  read foo;;
+   55  done
+   56  while true; do     read -p "Desea Continuar S/N?" op;     case $op in       [Ss]* ) echo "Continua la Ejecución. !"; break;;       [Nn]* ) echo "Finaliza la Ejecución. !"; exit;;           * ) echo "Seleccione Si o No.";;     esac; done
+   57  #!/bin/bash
+   58  echo "Hola hoy es: " ; date
+   59  echo "1) pedir dos numero"
+   60  echo "2) Opcion 2"
+   61  echo "3) Opcion 3"
+   62  echo "4) Opcion 4"
+   63  echo "Elija opcion:"
+   64  read opcion
+   65  case $opcion in 1) echo "dame un numero: "; ;; 2) echo "DAME UN NUMERO"; READ n1; echo "dame el otro numero: "; read n2; suma= n1*n2; echo $suma$;; 3) echo "Comando de la opcion 3";; 4) echo "Comando de la opcion 4";; *) echo "Opciones de 1 a 4 solamente";; esac
+   66  #!/bin/bash
+   67  echo "Hola hoy es: " ; date
+   68  echo "1) pedir dos numero"
+   69  echo "2) Opcion 2"
+   70  echo "3) Opcion 3"
+   71  echo "4) Opcion 4"
+   72  echo "Elija opcion:"
+   73  read opcion
+   74  case $opcion in 1) echo "DAME UN NUMERO"; 	read n1; 	echo "dame el otro numero: "; 	read n2; 	suma= 'expr $n1 * $n2'; echo "$n1 * $n2 = $suma";; 2) echo "Comando de la opcion 2";; 3) echo "Comando de la opcion 3";; 4) echo "Comando de la opcion 4";; *) echo "Opciones de 1 a 4 solamente";; esac
+   75  #!/bin/bash
+   76  clear
+   77  while :; do echo " Escoja una opcion "; echo "1. Usuario conectados?"; echo "2. Consumo de recursos"; echo "3. Servicios funcionando?"; echo "4. Salir"; echo -n "Seleccione una opcion [1 - 4]"; read opcion; case $opcion in 1) echo "Estan conectados:"; who;; 2) echo "Ejecutando htop"; htop;; 3) lsof -n -i -P | grep '*;;
+   78  4) echo "Fin";
+   79  exit 1;;
+   80  *) echo "$opc es una opcion invalida?";
+   81  echo "Presiona una tecla para continuar...";
+   82  read foo;;
+   83  done
+   84  '/c/Users/pc/Desktop/ADA material/menu2.sh'
+   85  '/c/Users/pc/Desktop/ADA material/nuevo.sh'
+   86  '/c/Users/pc/Desktop/ADA material/nuevo.sh'
+   87  '/c/Users/pc/Desktop/ADA material/nuevo.sh'
+   88  '/c/Users/pc/Desktop/ADA material/nuevo.sh'
+   89  '/c/Users/pc/Desktop/ADA material/menuconwhile.sh'
+   90  '/c/Users/pc/Desktop/ADA material/dame.sh'
+   91  '/c/Users/pc/Desktop/ADA material/dame.sh'
+   92  '/c/Users/pc/Desktop/ADA material/dame.sh'
+   93  '/c/Users/pc/Desktop/ADA material/dame.sh'
+   94  '/c/Users/pc/Desktop/ADA material/dame.sh'
+   95  '/c/Users/pc/Desktop/ADA material/dame.sh'
+   96  '/c/Users/pc/Desktop/ADA material/dame.sh'
+   97  '/c/Users/pc/Desktop/ADA material/dame.sh'
+   98  echo "dame un numero: "
+   99  read n1
+  100  echo "dame el otro numero: "
+  101  read n2
+  102  Suma=`expr $n1 / $n2` 
+  103  echo "Respuesta: $Suma"
+  104  sleep 5s
+  105  exit
+  106  echo "# recursos-wiffi" >> README.md
+  107  git init
+  108  git add README.md
+  109  git add 
+  110  git commit -m "algo de teoria sobre wiffi"
+  111  git branch -M main
+  112  git remote add origin https://github.com/ironsol1976/recursos-wiffi.git
+  113  git push -u origin main
+  114  history
+  115  history > comandos.txt
